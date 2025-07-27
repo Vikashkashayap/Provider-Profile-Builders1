@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import './App.css'
 import ProfileBuilder from './components/ProfileBuilder/ProfileBuilder'
 import './components/ProfileBuilder/ProfileBuilder.css'
